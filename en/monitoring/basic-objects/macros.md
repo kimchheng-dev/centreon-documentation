@@ -23,7 +23,7 @@ E.g.:
 ### Definition
 
 Customized macros are macros defined by the user at the creation of a host or a service. They are used in check
-commands. Customized macros start with $_HOST for customized macros of hosts and by $_SERVICE for customized macros o
+commands. Customized macros start with $_HOST for customized macros of hosts and by $_SERVICE for customized macros of
 services.
 
 There are several advantages to using customized macros instead of arguments:
